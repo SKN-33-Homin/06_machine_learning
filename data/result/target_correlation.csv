@@ -1,0 +1,73 @@
+﻿variable,correlation
+STATUS_TERMINATED,1.0
+is_terminated,1.0
+hire_age,0.1999918772529422
+age,0.13255241791033093
+city_name_New Westminister,0.06033508464935909
+city_name_Fort Nelson,0.05504722676879549
+city_name_Grand Forks,0.04459735967453187
+department_name_Store Management,0.03674308388109143
+city_name_White Rock,0.036647239993909085
+city_name_Haney,0.03630743579752455
+city_name_Princeton,0.03378243592454277
+city_name_Dawson Creek,0.03284798814532207
+department_name_Produce,0.030846551470473913
+job_title,0.0299650616862286
+department_name_Information Technology,0.02593807981614108
+length_of_service,0.02580817829401286
+city_name_Pitt Meadows,0.025473201225942564
+department_name_HR Technology,0.02335158225390557
+department_name_Labor Relations,0.022523861516781513
+department_name_Meats,0.020399870313868303
+department_name_Training,0.01974141775217226
+city_name_Cortes Island,0.0189483497285237
+department_name_Employee Records,0.018613134818204466
+department_name_Recruitment,0.018167141415925483
+department_name_Compensation,0.017656193438742453
+department_name_Audit,0.01765619343874245
+department_name_Investment,0.01765619343874245
+city_name_Valemount,0.016870288752773865
+city_name_Ocean Falls,0.01653353798513977
+department_name_Customer Service,0.01652839940385993
+department_name_Accounts Receiveable,0.016179903331777854
+department_name_Legal,0.01592404757614106
+department_name_Accounts Payable,0.013483839402123885
+city_name_Fort St John,0.010030199591548111
+city_name_Quesnel,0.009983004373500349
+city_name_Dease Lake,0.009078628164362307
+city_name_Blue River,0.0064189776090044295
+STATUS_YEAR,0.00437425294063587
+city_name_West Vancouver,0.003926168387407356
+city_name_Terrace,0.0032535277922249683
+city_name_Bella Bella,0.0028945639764002273
+city_name_Victoria,0.0019459095681955152
+city_name_Langley,4.720507500205734e-05
+city_name_Kamloops,-0.00037907276068558445
+city_name_Trail,-0.0014555408557647466
+city_name_Port Coquitlam,-0.0014748394858821899
+city_name_Surrey,-0.0018000876483172043
+city_name_Squamish,-0.001970017617080462
+city_name_Chilliwack,-0.0022650345263850085
+city_name_Nelson,-0.0036826878786190235
+city_name_Prince George,-0.003716541143259368
+city_name_Vernon,-0.004309453469997652
+city_name_Aldergrove,-0.005287011549580908
+hire_month,-0.005802599626373614
+hire_quarter,-0.006507106420895923
+city_name_North Vancouver,-0.0076887790606990376
+department_name_Executive,-0.007887673832480173
+city_name_Kelowna,-0.008715480105182234
+city_name_Williams Lake,-0.009022187666250077
+city_name_Richmond,-0.009925589802784235
+city_name_Vancouver,-0.011112199610586732
+city_name_New Westminster,-0.012515678753750549
+city_name_Cranbrook,-0.012947077572356767
+city_name_Nanaimo,-0.014950818749899815
+city_name_Burnaby,-0.01646771865276122
+department_name_Dairy,-0.020677394826148058
+store_name,-0.02196026833557451
+department_name_Processed Foods,-0.03168551085609156
+gender_short_M,-0.03324502002602015
+hire_year,-0.034725700539847984
+department_name_Bakery,-0.043768694383582836
+BUSINESS_UNIT_STORES,-0.05643746102556676
